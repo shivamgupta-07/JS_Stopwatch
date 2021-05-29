@@ -1,0 +1,22 @@
+body{
+    background-image: linear-gradient(#21094e,#511281);
+
+}
+.stopwatch-btn{
+    border-radius: 10px;
+    margin: 0 10px;   
+}
+.time{
+    color: maroon;
+}
+.card-header,.card-footer{
+    background-color: #4ca1a3;
+    color: #21094e;
+}
+.stopwatch{
+    background-color: #a5e1ad;
+    border: none;
+}
+.container{
+    height: 90vh;
+}
